@@ -1,0 +1,26 @@
+.times{
+    background-color:aqua;
+    margin:0em;
+}
+
+.subject{
+    font-size:2em;
+    
+    margin:1em;
+    backdrop-filter: blur(12px);
+    width:10em;
+    
+    
+}
+
+.header{
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    margin-top:0.5em;
+    width:50%;
+    padding-left:30%;
+    padding-right:30%;
+    text-align:center;
+    background-size:cover;
+    background-image:url('./images/title_background.png');
+}

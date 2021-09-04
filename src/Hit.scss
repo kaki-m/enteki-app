@@ -1,0 +1,25 @@
+.hitmark{
+    height:20px;
+    width:20px;
+}
+
+.number_of_arrow{
+    color:aqua;
+}
+
+.current_arrow_num{
+    position:relative;
+    top:-500px;
+    left:800px;
+    float:right;
+}
+
+.Target{
+    display:flex;
+    
+}
+
+.sum_score{
+    position:absolute;
+    top:-500px;
+}

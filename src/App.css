@@ -1,5 +1,23 @@
 .App {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro", "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "メイリオ", sans-serif;
   text-align: center;
+  position:flex;
+  width:1000px;
+  height:700px;
+  background-color:#7d9b5d;
+  margin-top:1em;
+  padding-top:3em;
+}
+.cursor{
+    width:50px;
+    height:50px;
+}
+.HitArea{
+    cursor:url(./images/cursor_arrow.cur),crosshair;
+}
+
+html{
+    background-color:black;
 }
 
 .App-logo {
@@ -11,6 +29,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.mato{
+    pointer-events: none;
+    height:500px;
+    width:500px;
+
 }
 
 .App-header {
@@ -35,4 +60,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.initialize_button{
+    position:absolute;
+    top:850px;
+    left:850px;
 }

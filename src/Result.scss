@@ -1,0 +1,38 @@
+.result{
+    background-color:white;
+    position:absolute;
+    left:1000px;
+    top:150px;
+    height:750px;
+    width:360px;
+    
+}
+
+.result_tbl{
+    float:right;
+    height:100%;
+    width:100%;
+    left:0px;
+}
+
+.sum_score{
+    float:right;
+    left:50px;
+    position:relative;
+}
+
+table{
+  width: 100%;
+  border-spacing: 0;
+}
+
+table th{
+  border-bottom: solid 2px #fb5144;
+  padding: 10px 0;
+}
+
+.color{
+  border-bottom: solid 2px green;
+  text-align: center;
+  padding: 10px 0;
+}

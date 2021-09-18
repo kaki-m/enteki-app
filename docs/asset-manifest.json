@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/enteki-app/static/css/main.9a4ae616.chunk.css",
+    "main.js": "/enteki-app/static/js/main.1132c8a8.chunk.js",
+    "main.js.map": "/enteki-app/static/js/main.1132c8a8.chunk.js.map",
+    "runtime-main.js": "/enteki-app/static/js/runtime-main.f28ee880.js",
+    "runtime-main.js.map": "/enteki-app/static/js/runtime-main.f28ee880.js.map",
+    "static/js/2.4c8231d3.chunk.js": "/enteki-app/static/js/2.4c8231d3.chunk.js",
+    "static/js/2.4c8231d3.chunk.js.map": "/enteki-app/static/js/2.4c8231d3.chunk.js.map",
+    "static/js/3.edeb0f68.chunk.js": "/enteki-app/static/js/3.edeb0f68.chunk.js",
+    "static/js/3.edeb0f68.chunk.js.map": "/enteki-app/static/js/3.edeb0f68.chunk.js.map",
+    "index.html": "/enteki-app/index.html",
+    "static/css/main.9a4ae616.chunk.css.map": "/enteki-app/static/css/main.9a4ae616.chunk.css.map",
+    "static/js/2.4c8231d3.chunk.js.LICENSE.txt": "/enteki-app/static/js/2.4c8231d3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/enteki-app/static/media/cursor_arrow.9b59df3f.cur",
+    "static/media/cursor_arrow.e8dda837.png": "/enteki-app/static/media/cursor_arrow.e8dda837.png",
+    "static/media/mato.dfd0312c.png": "/enteki-app/static/media/mato.dfd0312c.png",
+    "static/media/Head.scss": "/enteki-app/static/media/title_background.2614da78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28ee880.js",
+    "static/js/2.4c8231d3.chunk.js",
+    "static/css/main.9a4ae616.chunk.css",
+    "static/js/main.1132c8a8.chunk.js"
+  ]
+}

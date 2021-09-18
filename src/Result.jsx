@@ -122,7 +122,6 @@ export default class Result extends React.Component{
                 <td>{sum_score}</td>
             </tr>
         </table>
-        <p classNama = "sum_score">何点</p>
         </div>
         );
     }
